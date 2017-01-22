@@ -2,4 +2,4 @@
 My portfolio site showcasing my work
 
 
-[My site](https://www.michael-rivera.me)
+[My site](http://www.michael-rivera.me)
